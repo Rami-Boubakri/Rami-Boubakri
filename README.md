@@ -9,8 +9,8 @@
 Eager to Learn, Break, and Secure ✨🔒
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-boubakri)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rami-boubakri)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramiboubakri)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Pl4gueZ)
 [![Location](https://img.shields.io/badge/Tunis-Tunisia-2E7D32?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps)
 
 </div>
@@ -25,8 +25,6 @@ I'm **Rami Boubakri** (Pl4gueZ), a cybersecurity engineering student at **TEK-UP
 
 Deeply passionate about **offensive security**, **web application penetration testing**, **Active Directory**, **blue team operations**, and the intersection of **AI & cybersecurity**. I spend my time breaking things ethically, building security tools, and continuously leveling up through hands-on certifications and labs (HTB, THM, Proving Grounds).
 
-Currently seeking internships and opportunities in **penetration testing**, **SOC / blue team**, **threat intelligence**, or **AI security** roles. Open to collaborations on innovative security projects.
-
 ---
 
 ## Certifications
@@ -35,17 +33,34 @@ Currently seeking internships and opportunities in **penetration testing**, **SO
 
 ![eWPTX](https://img.shields.io/badge/eWPTX-INE-7B1FA2?style=flat-square)
 ![eCPPT](https://img.shields.io/badge/eCPPT-INE-1976D2?style=flat-square)
+![eSOC](https://img.shields.io/badge/eSOC-INE-388E3C?style=flat-square)
 ![eWPT](https://img.shields.io/badge/eWPT-INE-0288D1?style=flat-square)
 ![eJPT](https://img.shields.io/badge/eJPT-INE-039BE5?style=flat-square)
-![eSOC](https://img.shields.io/badge/eSOC-INE-388E3C?style=flat-square)
 ![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat-C62828?style=flat-square)
 ![PCAP](https://img.shields.io/badge/PCAP-Python_Institute-1565C0?style=flat-square)
-![API-RTA](https://img.shields.io/badge/API--RTA-CyberWarFare-E65100?style=flat-square)
 ![C3SA](https://img.shields.io/badge/C3SA-CyberWarFare-D84315?style=flat-square)
 ![BTF](https://img.shields.io/badge/BTF-CyberWarFare-EF6C00?style=flat-square)
+![API-RTA](https://img.shields.io/badge/API--RTA-CyberWarFare-E65100?style=flat-square)
+![WEB-RTA](https://img.shields.io/badge/WEB--RTA-CyberWarFare-F57C00?style=flat-square)
+![CRTA](https://img.shields.io/badge/CRTA-CyberWarFare-FF5722?style=flat-square)
+![AD-RTS](https://img.shields.io/badge/AD--RTS-CyberWarFare-FF6F00?style=flat-square)
 ![THM Top 1%](https://img.shields.io/badge/THM-Top_1%25-D32F2F?style=flat-square)
 
 </div>
+
+- **eWPTX** — Web Application Penetration Tester eXtreme (INE) · Oct 2026
+- **C3SA** — Certified Cyber Security Analyst (CyberWarFare Labs) · Oct 2026
+- **BTF** — Certified Blue Team Fundamentals (CyberWarFare Labs) · Oct 2026
+- **eSOC** — Security Operations Certified (INE) · Sep 2026
+- **eCPPT** — Certified Professional Penetration Tester (INE) · Aug 2026
+- **PCAP** — Certified Associate Python Programmer (Python Institute) · Apr 2026
+- **API-RTA** — Certified API Red Team Analyst (CyberWarFare Labs) · Mar 2026
+- **eWPT** — Web Application Penetration Tester (INE) · Feb 2026
+- **WEB-RTA** — Web Red Team Analyst (CyberWarFare Labs) · Feb 2026
+- **RHCSA** — Red Hat Certified System Administrator (Red Hat) · Dec 2025
+- **CRTA** — Certified Red Team Analyst (CyberWarFare Labs) · Dec 2025
+- **AD-RTS** — Active Directory Red Team Specialist (CyberWarFare Labs) · Nov 2025
+- **eJPT** — Junior Penetration Tester (INE) · Oct 2025
 
 ---
 
@@ -78,21 +93,7 @@ Currently seeking internships and opportunities in **penetration testing**, **SO
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pl4gueZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pl4gueZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-### Open to internships, collaborations & interesting security projects
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-boubakri)
 
